@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Avatar from './atoms/avatar';
 import Badge from './atoms/badge';
